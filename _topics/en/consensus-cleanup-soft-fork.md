@@ -101,6 +101,12 @@ optech_mentions:
   - title: "Prohibit Merkle internal node preimages that encode minimal 64-byte transactions"
     url: /en/newsletters/2026/07/03/#prohibit-merkle-internal-node-preimages-that-encode-minimal-64-byte-transactions
 
+  - title: "BIPs #2208 updates BIP54's rationale with an alternative to invalidating 64-byte transactions"
+    url: /en/newsletters/2026/07/17/#bips-2208
+
+  - title: "Bitcoin Core #35949 adjusts getblocktemplate timestamps to be compliant with BIP54 rules"
+    url: /en/newsletters/2026/09/11/#bitcoin-core-35949
+
 ## Optional.  Same format as "primary_sources" above
 see_also:
  - title: Soft fork activation

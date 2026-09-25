@@ -84,7 +84,7 @@ optech_mentions:
   - title: Proposal of initial RBF rules for mempool package acceptance before implementing package relay
     url: /en/newsletters/2021/09/22/#package-mempool-acceptance-and-package-rbf
 
-  - title: "2021 year-in-review: BIP125 opt-in replace-by-fee discrepency"
+  - title: "2021 year-in-review: BIP125 opt-in replace-by-fee discrepancy"
     url: /en/newsletters/2021/12/22/#bip125
 
   - title: "2021 year-in-review: default transaction replacement by fee"
@@ -224,6 +224,9 @@ optech_mentions:
 
   - title: "Discussion of removing RBF signaling from wallet transactions"
     url: /en/newsletters/2026/06/19/#discussion-of-removing-rbf-signaling-from-wallet-transactions
+
+  - title: "LND #10962 disables the RBF cooperative-close flow for auxiliary channels"
+    url: /en/newsletters/2026/07/17/#lnd-10962
 
 ## Optional.  Same format as "primary_sources" above
 see_also:

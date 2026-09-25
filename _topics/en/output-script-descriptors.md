@@ -221,6 +221,18 @@ optech_mentions:
   - title: "BIPs #1548 adds BIP391, a closed specification for Binary Output Descriptors superseded by BIP393"
     url: /en/newsletters/2026/05/01/#bips-1548
 
+  - title: "Migrating a legacy wallet to a descriptor wallet on a pruned node"
+    url: /en/newsletters/2026/07/31/#what-is-the-quickest-method-for-migrating-a-legacy-wallet-to-a-descriptor-wallet-on-a-pruned-node
+
+  - title: "Draft BIP for the rawtr() output script descriptor"
+    url: /en/newsletters/2026/08/21/#draft-bip-for-rawtr-output-script-descriptor
+
+  - title: "Draft BIP for specifying unspendable taproot internal keys in wallet policies"
+    url: /en/newsletters/2026/09/18/#new-bip-draft-for-unspendable-internal-keys
+
+  - title: "BIPs #1951 adds BIP138 compact encryption scheme for descriptor and wallet policy backups"
+    url: /en/newsletters/2026/09/25/#bips-1951
+
 ## Optional.  Same format as "primary_sources" above
 see_also:
   - title: Miniscript

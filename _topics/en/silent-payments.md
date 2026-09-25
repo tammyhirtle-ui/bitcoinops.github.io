@@ -107,6 +107,21 @@ optech_mentions:
   - title: "Sparrow Wallet 2.5.0 adds silent payments receiving"
     url: /en/newsletters/2026/06/19/#sparrow-wallet-2-5-0-adds-silent-payments-receiving
 
+  - title: "libsecp256k1 #1765 adds an optional silentpayments module"
+    url: /en/newsletters/2026/07/24/#libsecp256k1-1765
+
+  - title: "Libsecp256k1 0.8.0 released with silent payments module"
+    url: /en/newsletters/2026/08/07/#libsecp256k1-0-8-0
+
+  - title: "Silent payments sender plugin for Electrum"
+    url: /en/newsletters/2026/08/21/#silent-payments-sender-plugin-for-electrum
+
+  - title: "Using silent payments for miner payouts in the coinbase transaction"
+    url: /en/newsletters/2026/09/04/#using-silent-payments-for-miner-payouts-in-coinbase-transaction
+
+  - title: "Update on silent payments light clients with BlindBit Oracle benchmarks and a convergence draft"
+    url: /en/newsletters/2026/09/11/#update-on-silent-payments-light-clients
+
 ## Optional.  Same format as "primary_sources" above
 see_also:
   - title: Output linking

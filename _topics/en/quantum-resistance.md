@@ -163,6 +163,30 @@ optech_mentions:
   - title: "Triggering EC disabling with a NUMS point spend or hashrate majority"
     url: /en/newsletters/2026/07/03/#triggering-ec-disabling-with-a-nums-point-spend-or-hashrate-majority
 
+  - title: "Segwit commitment to post-quantum witness data"
+    url: /en/newsletters/2026/08/07/#segwit-commitment-to-post-quantum-witness-data
+
+  - title: "PQC output type discussion"
+    url: /en/newsletters/2026/08/07/#pqc-output-type-discussion
+
+  - title: "Layered quantum recovery of hashed addresses"
+    url: /en/newsletters/2026/08/07/#layered-quantum-recovery-of-hashed-addresses
+
+  - title: "libshrincs, a formally verified hash-based signature implementation"
+    url: /en/newsletters/2026/08/21/#libshrincs-formally-verified-hash-based-signatures
+
+  - title: "Continued discussion of PQC output types"
+    url: /en/newsletters/2026/09/04/#continued-discussion-of-pqc-output-types
+
+  - title: "DropKick commit/reveal PQC rescue"
+    url: /en/newsletters/2026/09/04/#dropkick-commit-reveal-pqc-rescue
+
+  - title: "SHRINCS draft BIP"
+    url: /en/newsletters/2026/09/04/#shrincs-draft-bip
+
+  - title: "PQLN proposal for post-quantum security of Lightning Network offchain protocols"
+    url: /en/newsletters/2026/09/25/#proposal-for-a-post-quantum-lightning-network
+
 ## Optional.  Same format as "primary_sources" above
 see_also:
   - title: Taproot
